@@ -1,0 +1,8 @@
+
+The Terraform configuration includes the following:
+VPC, subnets, and networking components.
+ECS Cluster.
+ECS Task Definition to run the Docker container.
+ECS Service to manage the application instances.
+Application Load Balancer (ALB) for routing traffic.
+IAM Roles and Policies.
